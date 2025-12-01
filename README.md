@@ -23,11 +23,11 @@ It showcases my skills, projects, interests, and contact details in a clean, mod
 
 ## 📁 Folder Structure
 
-project-folder/
-│
-├── index.html
-├── style.css
-└── profile.jpg (your image)
+project-folder<br>
+│<br>
+├── index.html<br>
+├── style.css<br>
+└── profile.jpg
 
 
 ---
