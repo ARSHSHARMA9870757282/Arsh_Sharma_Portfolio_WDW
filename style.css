@@ -1,6 +1,4 @@
-/* style-alt.css — external CSS only */
 
-/* Variables */
 :root{
   --bg:#fbfdff;
   --card:#ffffff;
@@ -75,3 +73,4 @@ a{color:var(--accent-2);text-decoration:none}
   .hero-card{flex-direction:column;align-items:center;text-align:center}
   .main-nav{display:none}
 }
+
